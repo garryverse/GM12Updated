@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"Unofficial Garry's Mod 12 Update"
+	"version"	"1.0"
+	"up_date"	"2026-09-27"
+	"author_name"	"CosmicStar98"
+	"author_email"	"N/A"
+	"author_url"  	"https://github.com/garryverse/gm12updated"
+	"info"		"A project aiming to provide fresh bug fixes & QoL improvements to gmod 12."
+}
