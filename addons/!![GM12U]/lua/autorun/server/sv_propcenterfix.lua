@@ -1,4 +1,3 @@
-local USE_EYE_ANGLES = true
 local CENTER_ON_OBB  = true
 
 hook.Add( "Initialize", "PropCenterFix_Override", function()
